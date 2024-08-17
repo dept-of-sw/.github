@@ -8,3 +8,8 @@ All projects stem from a use-case which should be a solution to an issue or gene
 Projects should be broken down as a backlog of tasks and priority list.
 
 Considerations for security shall be recorded with resolution steps or deferred to be resolved at a later point.
+
+### Focus
+- Establish straightforward implementations
+- Re-use solutions to common underlying logic
+- Identify procedures and tools to streamline development
