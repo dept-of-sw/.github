@@ -12,4 +12,6 @@ Considerations for security shall be recorded with resolution steps or deferred 
 ### Focus
 - Establish straightforward implementations
 - Re-use solutions to common underlying logic
+- Use/research existing tool suites to achieve results before creating one
 - Identify procedures and tools to streamline development
+- Be aware of dependency licensing (GPL2 vs GPL3 vs BSD etc etc) and their implications and compatibility
